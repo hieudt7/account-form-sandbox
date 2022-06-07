@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input.invalid-input{
+  background-color: RGBA(255, 62, 62, 0.1);
+  border-color: RGB(255, 62, 62);
+}
+.invalid-lbl{
+  font-size: 12px;
+  color: RGB(255, 62, 62);
+  line-height: 16px;
+  margin-top: 4px;
+}
